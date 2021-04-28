@@ -1,0 +1,13 @@
+@model List<Pokemon>
+
+<h1>Lista de pokemones registrados</h1>
+
+<ol>
+@foreach (var p in Model){
+    <li class="d-flex"></li>
+        <div><img src="@p.Foto" /></div>    
+        <div>@p.Nombre</div>
+        
+    }
+
+</ol>

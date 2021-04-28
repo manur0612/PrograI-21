@@ -1,0 +1,26 @@
+<div class="text-center">
+    <h1 class="display-4">Quiénes Somos </h1></br>
+    <h1 class="display-4">Servicios y Productos</h1></br>
+    <h1 class="display-4">Formulario</h1></br>
+    <div>
+        <form asp-controller="Contacto" asp-action="Create">
+            <label asp-for="FirstName" class="control-label"></label>
+            <input asp-for="FirstName" class="form-control" />
+
+            <label asp-for="LastName" class="control-label"></label>
+            <input asp-for="LastName" class="form-control" />
+
+            <label asp-for="Phone" class="control-label"></label>
+            <input asp-for="Phone" class="form-control" />
+
+            <label asp-for="Mesage" class="control-label"></label>
+            <input asp-for="Mesage" class="form-control" />
+
+            <div class="form-group">
+                <button type="submit" class="btn btn-primary">Enviar</button> 
+            </div>              
+    </form>
+    </div>
+    
+
+</div>

@@ -80,3 +80,6 @@ D:\Users\MRios\Desktop\USMP\Cursos\Prog I\Laboratorio\Tareas\appLaPiranha\obj\De
 D:\Users\MRios\Desktop\USMP\Cursos\Prog I\Laboratorio\Tareas\appLaPiranha\obj\Debug\net5.0\ref\appLaPiranha.dll
 D:\Users\MRios\Desktop\USMP\Cursos\Prog I\Laboratorio\Tareas\appLaPiranha\obj\Debug\net5.0\appLaPiranha.pdb
 D:\Users\MRios\Desktop\USMP\Cursos\Prog I\Laboratorio\Tareas\appLaPiranha\obj\Debug\net5.0\appLaPiranha.genruntimeconfig.cache
+D:\Users\MRios\Desktop\USMP\Cursos\Prog I\Laboratorio\Tareas\appLaPiranha\obj\Debug\net5.0\Razor\Views\Producto\Compra.cshtml.g.cs
+D:\Users\MRios\Desktop\USMP\Cursos\Prog I\Laboratorio\Tareas\appLaPiranha\obj\Debug\net5.0\Razor\Views\Producto\Venta.cshtml.g.cs
+D:\Users\MRios\Desktop\USMP\Cursos\Prog I\Laboratorio\Tareas\appLaPiranha\obj\Debug\net5.0\Razor\Views\Producto\Contacto.cshtml.g.cs

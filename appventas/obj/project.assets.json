@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Users\\MRios\\Desktop\\USMP\\Cursos\\Prog I\\Laboratorio\\Tareas\\appventas\\appventas.csproj",
+      "projectUniqueName": "D:\\Users\\MRios\\Desktop\\USMP\\Cursos\\Prog I\\Laboratorio\\pruebas\\appventas\\appventas.csproj",
       "projectName": "appventas",
-      "projectPath": "D:\\Users\\MRios\\Desktop\\USMP\\Cursos\\Prog I\\Laboratorio\\Tareas\\appventas\\appventas.csproj",
+      "projectPath": "D:\\Users\\MRios\\Desktop\\USMP\\Cursos\\Prog I\\Laboratorio\\pruebas\\appventas\\appventas.csproj",
       "packagesPath": "C:\\Users\\MRios\\.nuget\\packages\\",
-      "outputPath": "D:\\Users\\MRios\\Desktop\\USMP\\Cursos\\Prog I\\Laboratorio\\Tareas\\appventas\\obj\\",
+      "outputPath": "D:\\Users\\MRios\\Desktop\\USMP\\Cursos\\Prog I\\Laboratorio\\pruebas\\appventas\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\MRios\\AppData\\Roaming\\NuGet\\NuGet.Config"
